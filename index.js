@@ -9,9 +9,9 @@ return kittens;
 
 }
 
-function destructivelyAppendKitten(name) {
-//var kittens = ["Milo", "Otis", "Garfield"];
-kittens.unshift(name);
-return kittens;
-
-}
+// function destructivelyAppendKitten(name) {
+// //var kittens = ["Milo", "Otis", "Garfield"];
+// kittens.unshift(name);
+// return kittens;
+// 
+// }
